@@ -24,3 +24,8 @@ The transistor turns on and allows current to flow through the LED.
 
 ### 3D View
 ![3d](images/3d.png)
+
+## Tools Used
+- KiCad
+- KiCad PCB Editor
+- KiCad 3D Viewer
