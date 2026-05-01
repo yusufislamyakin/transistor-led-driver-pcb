@@ -29,3 +29,7 @@ The transistor turns on and allows current to flow through the LED.
 - KiCad
 - KiCad PCB Editor
 - KiCad 3D Viewer
+
+## Project Files
+
+You can find the complete KiCad project files in the `kicad` folder, including schematic and PCB layout.
