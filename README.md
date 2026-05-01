@@ -17,7 +17,7 @@ The transistor turns on and allows current to flow through the LED.
 ## Images
 
 ### Schematic
-
+![schematic](images/schematic.png)
 
 ### PCB Layout
 ![pcb](images/pcb.png)
